@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Task01_Searchable/Task01_Searchable.csproj" />
+  <Project Path="Task02_ShapeInterface/Task02_ShapeInterface.csproj" />
+  <Project Path="Task03_AbstractShape/Task03_AbstractShape.csproj" />
+  <Project Path="Task04_Employee/Task04_Employee.csproj" />
+</Solution>
