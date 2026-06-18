@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TimeTrackingApp.Application/TimeTrackingApp.Application.csproj" />
+  <Project Path="TimeTrackingApp.Domain/TimeTrackingApp.Domain.csproj" />
+  <Project Path="TimeTrackingApp.Infrastructure/TimeTrackingApp.Infrastructure.csproj" />
+  <Project Path="TimeTrackingApp/TimeTrackingApp.csproj" />
+</Solution>
